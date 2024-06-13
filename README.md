@@ -1,5 +1,5 @@
 
-# Shoe Detection Pipeline for Clothing Recommendation System
+# Sideways Shoe Detection Pipeline in Retail Imagery
 
 ## Overview
 This shoe detection pipeline was used to filter photos for a recommendation system. The pipeline focuses on identifying typical retail shoe photos. Specifically, images showcasing a single shoe from the side with a white to grayish background. It is designed to exclude images featuring multiple shoes, images with diverse or non-uniform backgrounds, and photos where the wearer of the shoe is visible. It ensures that the images meet specific aesthetic criteria, which is vital for maintaining a consistent visual presentation across the recommendation platform. 
